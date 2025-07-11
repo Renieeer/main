@@ -14,7 +14,7 @@ body, html {
   align-items: center;
 }
 
-/* Center container */
+
 .center {
   display: flex;
   justify-content: center;
@@ -22,7 +22,7 @@ body, html {
   height: 100%;
 }
 
-/* Floating login box */
+
 #container {
   background-color: white;
   padding: 40px;
@@ -32,13 +32,13 @@ body, html {
   text-align: center;
 }
 
-/* Heading */
+
 #container h2 {
   margin-bottom: 20px;
   color: #333;
 }
 
-/* Labels */
+
 #container label {
   display: block;
   margin-top: 10px;
@@ -47,7 +47,7 @@ body, html {
   color: #555;
 }
 
-/* Inputs */
+
 #container input {
   width: 100%;
   padding: 10px;
@@ -62,7 +62,7 @@ body, html {
   border-color: #ff8c42;
 }
 
-/* Button */
+
 #container button {
   margin-top: 20px;
   padding: 10px 20px;
